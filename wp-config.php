@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'hume' );
+define( 'DB_NAME', 'u123962300_kmart' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'u123962300_kmarts' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'Talktome@123' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
@@ -85,6 +85,7 @@ define( 'WP_DEBUG', false );
 
 
 
+define( 'FS_METHOD', 'direct' );
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
